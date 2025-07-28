@@ -4,7 +4,7 @@ This repository contains the resume of Jonathan Math, built using Bootstrap.
 
 ## Preview
 
-[View HTML File](./bootstrap_resume.html)
+[View HTML File](https://jmath1.github.io/ResponsiveResume)
 
 ## How to Use
 

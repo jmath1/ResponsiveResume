@@ -4,13 +4,7 @@ This repository contains the resume of Jonathan Math, built using Bootstrap.
 
 ## Preview
 
-To view the resume, open the `bootstrap_resume.html` file in your browser or use the embedded preview below (if supported by your markdown viewer).
-
-### Embedded Preview
-
-```html
-<iframe src="bootstrap_resume.html" style="width: 100%; height: 800px; border: none;"></iframe>
-```
+[View HTML File](./bootstrap_resume.html)
 
 ## How to Use
 

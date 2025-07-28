@@ -10,7 +10,7 @@ This repository contains the resume of Jonathan Math, built using Bootstrap.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jmath/resume.git
+   git clone https://github.com/jmath/ResponsiveResume.git
    ```
 2. Open the `bootstrap_resume.html` file in your browser to view the resume.
 
